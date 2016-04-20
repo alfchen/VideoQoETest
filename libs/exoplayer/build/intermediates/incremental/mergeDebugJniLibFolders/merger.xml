@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/alfred/Project/ashkan_david/qoe_workshop/code/VideoQoETest/libs/exoplayer/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/alfred/Project/ashkan_david/qoe_workshop/code/VideoQoETest/libs/exoplayer/src/debug/jniLibs"/></dataSet></merger>
